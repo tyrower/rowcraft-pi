@@ -6,6 +6,6 @@ Piloter Steve pour qu'il rame dans la version "Pocket" de Minecraft sous Raspber
 Installation de "[PyRow] (http://www.newhavenrowingclub.org/pyrow/)" de Sam Gambrell 
 La version maintenu du projet PyRow sur GitHub se trouve à (https://github.com/uvd/PyRow)
 
-Pour plus d'information par rapport au Raspberry Pi et les Ergomètres Concept 2 voir le site de Dom de Vito : [RasPiRowing] (http://raspirowing.com/index.php) 
+Pour plus d'information spécifiquement par rapport au Raspberry Pi et les Ergomètres Concept 2 voir le site de Dom(enico) de Vivo : [RasPiRowing] (http://raspirowing.com/index.php) et surtout son "[How to](http://raspirowing.com/index.php/how-to)".
 
 
